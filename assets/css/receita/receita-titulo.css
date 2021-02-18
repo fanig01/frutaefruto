@@ -1,3 +1,11 @@
-.receita__titulo {
-  font-size: 1.3rem;
+@media screen and (min-width: 0) {
+  .receita__titulo {
+    font-size: 1.1rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .receita__titulo {
+    font-size: 1.3rem;
+  }
 }

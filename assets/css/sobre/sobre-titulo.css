@@ -1,6 +1,11 @@
 .sobre__titulo {
   color: #8d0606;
   font-family: Pacifico, cursive;
+  transition: all 1s ease-in-out;
+}
+
+.sobre__titulo:hover {
+  color: #006400;
 }
 
 @media screen and (min-width: 0) {
