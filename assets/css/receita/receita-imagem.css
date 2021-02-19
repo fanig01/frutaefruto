@@ -1,3 +1,4 @@
 .receita__imagem {
+  border-radius: .25rem .25rem 0 0;
   height: 200px;
 }

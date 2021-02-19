@@ -1,0 +1,23 @@
+.contato {
+  background: right / cover;
+  height: 30px;
+  object-fit: contain;
+  opacity: 1;
+  transition: 1s;
+}
+
+.contato:hover {
+  opacity: 0.5;
+}
+
+@media secreen and (min-width: 0) {
+  .contato {
+    width: 15%;
+  }
+}
+
+@media secreen and (min-width: 480px) {
+  .contato {
+    width: 3%;
+  }
+}

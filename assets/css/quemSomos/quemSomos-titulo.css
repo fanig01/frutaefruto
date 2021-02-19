@@ -3,4 +3,9 @@
   font-family: Pacifico, cursive;
   font-size: 3.1875rem;
   margin-bottom: 1rem;
+  transition: all 1s ease-in-out;
+}
+
+.quem-somos__titulo:hover {
+  color: #006400;
 }
